@@ -1,0 +1,566 @@
+<head>
+</head>
+<table width="100%" style="font-family: Calibri; font-size: 10px;">
+    <tr>
+        <td>
+            <table width="100%">
+                <tr style="font-family: Calibri;">
+                    <td align="left" colspan="4">
+                        Employee ID :<b> 476906</b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri; font-size: x-small;">
+                    <td align="left" width="35%" style="text-decoration: underline;">
+                        <b>TRANSFER CLAIM FORM</b>
+                    </td>
+                    <td align="right" width="15%">
+                    </td>
+                    <td align="left" width="10%" style="text-decoration: underline;">
+                    </td>
+                    <td align="left" width="40%">
+                        <b>CLAIM ID</b>________________
+                    </td>
+                </tr>
+                <tr style="font-size: 10px; font-family: Calibri;">
+                    <td align="left" width="35%">
+                        Form 13 (REVISED)
+                    </td>
+                    <td align="center" width="15%">
+                    </td>
+                    <td align="left" width="15%">
+                        &nbsp;
+                    </td>
+                    <td align="center" width="35%">
+                        (For EPFO Use only)
+                    </td>
+                </tr>
+            </table>
+            <!--<table width="100%">
+                <tr>
+                    <td>
+                        
+                    </td>
+                </tr>
+            </table>-->
+            <table width="100%">
+                <tr style="font-family: Calibri;">
+                    <td width="20%" align="right">
+                        <img src="https://pfhelpdesk.techmahindra.com/Images/PFLogo1.png" alt="" />
+                    </td>
+                    <td width="60%" align="center">
+                        <b style="background-color: #FFFFFF">EMPLOYEES PROVIDENT FUND SCHEME, 1952</b>
+                        <br />
+                        <b>(PARA 57)</b>
+                    </td>
+                    <td width="20%" align="left" valign="middle">
+                    </td>
+                </tr>                
+            </table>
+            <table width="100%">
+                <tr style="font-family: Calibri;">
+                    <td width="50%" align="left">
+                        To,
+                    </td>
+                    <td width="50%" align="left">
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td width="50%" align="left">
+                        The Regional P F Commissioner,
+                    </td>
+                    <td width="50%" align="left">
+                        To,
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td width="50%" align="left">
+                        Office Name : <strong>___________________________</strong>
+                    </td>
+                    <td width="50%" align="left">
+                        Trust Name : <strong>HCL EPF TRUST</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td width="50%" align="left">
+                        Office Address : <strong>_________________________<Br />_______________________________________</strong>
+                    </td>
+                    <td width="50%" align="left">
+                        Trust Address : <strong>HCL EPF Trust HCL Infosys-<Br/>tems Ltd. E-4, Sector - XI,Noida-201301, U.P. India </strong>
+                    </td>
+                </tr>
+               <!-- <tr style="font-family: Calibri;">
+                    <td width="50%" align="left">
+                    </td>
+                    <td width="50%" align="left">
+                        
+                    </td>
+                </tr>-->
+                <tr style="font-family: Calibri; font-size: x-small;">
+                    <td width="50%" align="left">
+                        <!--<strong>_________________________<Br />_______________________________________</strong>-->
+                        (Please see instruction 3)
+                    </td>
+                    <td width="50%" align="left">
+                        (in case the PF A/C is with Exempted Establishment)
+                    </td>
+                </tr>
+                <!--<tr style="font-family: Calibri;">
+                    <td width="50%" align="left">
+                        
+                    </td>
+                    <td width="50%" align="left">
+                        
+                    </td>
+                </tr>-->
+                <!--_______________________________________-->
+                <!--<tr style="font-size: 13px; font-family: Calibri;">
+                    <td width="50%" align="left">
+                       
+                    </td>
+                    <td width="50%" align="left">
+                        
+                    </td>
+                </tr>-->
+                <!--<tr style="font-family: Calibri; height:20px;">
+                    <td width="50%" align="left" colspan="2">                        
+                    </td>
+                </tr>-->
+                <tr style="font-family: Calibri; height: 25px; font-family: Calibri;">
+                    <td width="50%" align="left" colspan="2">
+                        <b>Sir,</b>
+                    </td>
+                </tr>
+                <tr align="justify" style="font-family: Calibri;">
+                    <td colspan="2">
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I request that my provident fund balance along
+                        with my pension service details may please be transferred to my Present Account
+                        under intimation to me. My details are as under:
+                    </td>
+                </tr>
+            </table>
+            <table width="100%">
+                <tr style="height: 1px; font-family: Calibri;">
+                    <td style="width: 2%;">
+                    </td>
+                    <td style="width: 48%;">
+                    </td>
+                    <td style="width: 2%;">
+                    </td>
+                    <td style="width: 48%;">
+                    </td>
+                </tr>
+                <tr style="height: 20px; vertical-align: middle; font-family: Calibri;">
+                    <td colspan="4" align="center">
+                        <b>PART A: PERSONAL INFORMATION</b>
+                    </td>
+                </tr>                
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%;">
+                        1.
+                    </td>
+                    <td style="width: 98%;" colspan="3">
+                        *Name : <strong>SWATI   PUNDIR</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%; vertical-align: top;">
+                        2.
+                    </td>
+                    <td align="left" style="width: 98%;" colspan="3">
+                        *Father/Husband&#39;s Name : <strong>Jagpal Singh</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%;">
+                        3.
+                    </td>
+                    <td align="left" style="width: 98%;" colspan="3">
+                        Mobile Number : <strong>9560600397</strong>
+                    </td>
+                    <!--<td style="width: 2%;">
+                        4.
+                    </td>
+                    <td align="left" style="width: 48%;">
+                        E-mail ID : <strong>SP00476906@TechMahindra.com</strong>
+                    </td>-->
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%;">
+                        4.
+                    </td>
+                    <td align="left" style="width: 98%;" colspan="3">
+                        E-mail ID : <strong>SP00476906@TechMahindra.com</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%;">
+                        5.
+                    </td>
+                    <td style="width: 48%;" align="left">
+                        Bank A/C Number : <b>107001528182</b>
+                    </td>
+                    <td style="width: 2%;">
+                        6.
+                    </td>
+                    <td style="width: 48%;" align="left">
+                        IFS Code of Bank Branch : <b>ICIC0001070</b>
+                    </td>
+                </tr>
+            </table>
+            <table width="100%">
+                <tr style="height: 20px; vertical-align: middle; font-family: Calibri;">
+                    <td style="width: 2%;">
+                    </td>
+                    <td style="width: 98%;" colspan="3" align="center">
+                        <b>PART B: DETAILS OF PREVIOUS ACCOUNT (WHICH IS TO BE TRANSFERRED)</b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                        1.
+                    </td>
+                    <td align="left" colspan="3">
+                        *PF Account No. : <strong>MRNOI00114760000079151</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                    </td>
+                    <td align="left" style="font-style: italic;" colspan="3">
+                        In case the previous establishment is exempted under Employee&#39;s Provident Fund
+                        Scheme,1952
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                    </td>
+                    <td align="left" colspan="3">
+                        Pension Fund Account No. : _______________________________________________________
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="vertical-align: top;">
+                        2.
+                    </td>
+                    <td align="left" colspan="3">
+                        *Name and Address of the Previous Establishment : <strong>HCL Infosystems Ltd. D-1, Sector -3-<Br />&nbsp;&nbsp;, Noida-201301 U.P. India </strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="vertical-align: top;">
+                    </td>
+                    <td align="left" colspan="3">
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="vertical-align: top;">
+                        3.
+                    </td>
+                    <td align="left" colspan="3">
+                        *PF Account is held by : (Name of EPF Office/ PF Trust) : <strong>PF Trust</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                        4.
+                    </td>
+                    <td align="left" colspan="3">
+                        *Date of Birth : <b>28/06/1992 </b>&nbsp;(dd/mm/yyyy)
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                        5.
+                    </td>
+                    <td align="left">
+                        *Date of Joining : <strong>20/06/2013 </strong>&nbsp;(dd/mm/yyyy)
+                    </td>
+                    <td>
+                        6.
+                    </td>
+                    <td align="left">
+                        *Date of Leaving : <strong>04/08/2016 </strong>&nbsp;(dd/mm/yyyy)
+                    </td>
+                </tr>
+                <!--<tr>
+                    <td>
+                        6.
+                    </td>
+                    <td align="left">
+                        *Date of Leaving : <strong>04/08/2016 </strong>&nbsp;(dd/mm/yyyy)
+                    </td>
+                </tr>-->
+            </table>
+            <table width="100%">
+                <!-- <tr>
+                    <td style="width: 2%;">
+                    </td>
+                    <td style="width: 98%;">
+                    </td>
+                </tr>-->
+                <tr style="height: 20px; vertical-align: middle; font-family: Calibri;">
+                    <td align="center" colspan="2">
+                        <b>PART C: DETAILS OF PRESENT ACCOUNT</b>
+                    </td>
+                </tr>
+                <!-- <tr>
+                    <td colspan="2"> 
+                    </td>
+                </tr>-->
+                <tr style="font-family: Calibri;">
+                    <td>
+                        1.
+                    </td>
+                    <td align="left">
+                        *PF Account No. : <strong>PU/PUN/0034224/000/0232559</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                    </td>
+                    <td align="left" style="font-style: italic;">
+                        In case the Previous Establishment is exempted under Employee&#39;s Provident Fund
+                        Scheme,1952
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                    </td>
+                    <td align="left">
+                        Pension Fund Account No. : <strong>PU/PUN/0034224/000/0232559</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                        2.
+                    </td>
+                    <td align="left" colspan="2">
+                        *Name and Address of the Present Establishment : <b>TECH MAHINDRA LIMITED, SHARDA CENTRE,
+                        </b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                    </td>
+                    <td align="left" colspan="2">
+                        &nbsp;&nbsp;<b>OFF KARVE ROAD, ERANDWANE, PUNE - 411 004.</b>
+                    </td>
+                </tr>
+            </table>
+            <!-- Page 2 -->
+            <table width="100%">
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%; vertical-align: top;">
+                        3.
+                    </td>
+                    <td align="left" colspan="2">
+                        *Account is held by : (Name of EPF Office/ PF Trust) 
+                        <strong> &nbsp;EPF Office </strong>
+                        &nbsp;
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%;">
+                        4.
+                    </td>
+                    <td align="left" colspan="2">
+                        *Date of Joining : <strong>10/08/2016 </strong>&nbsp;(dd/mm/yyyy)
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%; vertical-align: top;">
+                        5.
+                    </td>
+                    <td colspan="2">
+                        #Name of Trust (to whom funds are to be paid in case of present establishment being
+                        exempted under EPF Scheme, 1952) : <strong> Not Applicable</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="width: 2%;">
+                        6.
+                    </td>
+                    <td colspan="2">
+                        #Employee Code under the Trust : <strong>Not Applicable</strong>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri; font-size: x-small;">
+                    <td style="width: 2%;">
+                    </td>
+                    <td style="width: 48%;" align="left">
+                        <b>(* indicates mandatory fields)</b>&nbsp;
+                    </td>
+                    <td style="width: 50%;" align="left">
+                        <b>(# Strike off if not applicable)</b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td colspan="3">
+                    </td>
+                </tr>
+                <tr style="height: 35px; font-family: Calibri;">
+                    <td colspan="3" style="text-align: justify;">
+                        <b>I, Certify that all the information given above is true to the best of my knowledge
+                            and I have ensured the correctness of my present and previous account numbers.
+                        </b>
+                    </td>
+                </tr>
+                <!--<tr>
+                    <td colspan="3" align="right" class="style1">
+                    </td>
+                </tr>-->
+                <tr style="height: 30px; vertical-align: bottom; font-family: Calibri;">
+                    <td align="right" colspan="3">
+                        <b>* Signature of the Member</b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td align="right" colspan="3">
+                        <b>Date: _____________</b>
+                    </td>
+                </tr>
+            </table>
+            <table width="100%">
+                <tr style="font-family: Calibri;">
+                    <td style="width: 50%;">
+                    </td>
+                    <td style="width: 50%;">
+                    </td>
+                </tr>
+                <!--<tr>
+                    <td colspan="2">
+                    </td>
+                </tr>-->
+                <tr style="font-family: Calibri;">
+                    <td align="left" colspan="2" style="font-size: 13px; font-weight: bold; font-style: italic;
+                        font-family: Calibri;">
+                        <b>IMPORTANT :<span style="text-decoration: underline;"> Member has the option to get
+                            the claim form attested by present or previous employer. In case of attestation
+                            by the previous employer, time taken in settlement will be relatively less.</span></b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td style="font-size: xx-small;" colspan="2">
+                        .
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td colspan="2">
+                        Certified that I have verified the data in Part B in respect of the member mentioned
+                        in Part A of this form and the signature of the member.
+                    </td>
+                </tr>
+                <!--<tr>
+                    <td colspan="2">
+                    </td>
+                </tr>-->
+                <tr style="height: 30px; vertical-align: bottom; font-family: Calibri;">
+                    <td align="right" colspan="2">
+                        <b>* Signature of Previous Employer</b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td>
+                        Seal of the Establishment
+                    </td>
+                    <td align="right">
+                        <b>Date: _____________</b>
+                    </td>
+                </tr>
+            </table>
+            <table width="100%">
+                <!--<tr>
+                    <td style="width: 50%;">
+                    </td>
+                    <td style="width: 50%;">
+                    </td>
+                </tr>-->
+                <tr style="height: 30px; vertical-align: middle; font-family: Calibri;">
+                    <td colspan="2" align="center">
+                        <b>OR</b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td colspan="2" style="font-size: 14px;">
+                        Certified that I have verified the data in Part C in respect of the member mentioned
+                        in Part A of this form.
+                    </td>
+                </tr>
+                <!--<tr>
+                    <td align="right" colspan="2">
+                    </td>                   
+                </tr>-->
+                <tr style="height: 30px; vertical-align: bottom; font-family: Calibri;">
+                    <td align="right" colspan="2">
+                        <b>* Signature of Present Employer</b>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td align="left">
+                        Seal of the Establishment
+                    </td>
+                    <td align="right">
+                        <b>Date: _____________</b>
+                    </td>
+                </tr>
+            </table>
+            <table width="100%">
+                <tr style="font-family: Calibri; height: 5px;">
+                    <td colspan="2" align="center">
+                        <strong>___________________________________________________________________________________</strong>
+                    </td>
+                </tr>
+                <!--<tr>
+                    <td colspan="2">
+                    </td>
+                </tr>-->
+                <tr style="vertical-align: middle; height: 20px; font-family: Calibri;">
+                    <td colspan="2" align="center" style="font-weight: bold; text-decoration: underline;">
+                        <span>INSTUCTIONS AND GUIDELINES</span>
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td valign="top">
+                        1.
+                    </td>
+                    <td style="text-align: justify;">
+                        The Bank A/C details are for verification purpose even if the Fund is transferred
+                        to the EPFO Office/Trust maintaining the present account number.
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td valign="top">
+                        2.
+                    </td>
+                    <td style="text-align: justify;">
+                        In case the Previous Account was maintained by PF Trust of the exempted establishment,
+                        the member should submit a Transfer Claim Form {Form-13 (Revised)} to the Trust
+                        while sending another Transfer Claim Form {Form-13 (Revised)} to the PF Office for
+                        transferring the service details under the Pension Fund to the new account.
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td valign="top">
+                        3.
+                    </td>
+                    <td style="text-align: justify;">
+                        The Form should be submitted to that PF Office under which previous or the present
+                        account is maintained, depending upon as to which employer has attested the claim.
+                        (In case the claim is attested by the present employer, claim should be submitted
+                        with the PF Office under which the present account is maintained, and so on.)
+                    </td>
+                </tr>
+                <tr style="font-family: Calibri;">
+                    <td valign="top">
+                        4.
+                    </td>
+                    <td style="text-align: justify;">
+                        The mobile number (wherever provided) of the member would be used for sending an
+                        SMS alert informing him/her the processing of his/her claim and is non-mandatory
+                        for Physical form.
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
